@@ -37,7 +37,7 @@
 		"name": "Hyperborea",
 		"leaderName": "Yunraz Wodan",
 		"adjective": ["Hyperborean"],
-		"startBias": ["Mountain","Forest", "Tundra"],
+		"startBias": ["Mountain","Tundra"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "",
