@@ -6,6 +6,11 @@
 		"uniques": ["Unbuildable","Free [Worker] appears","Free [Scout] appears"],
 		"science": 5,
 		"isNationalWonder": true
+	},
+	{
+		"name": "Test Colony Ship",
+		"uniqueTo": "Hyperboreans",
+		"uniques": ["Unbuildable","Free [Scarred] appears"],
+		"isNationalWonder": true
 	}
-
 ]

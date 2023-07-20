@@ -1,52 +1,6 @@
 [
 	//Hyperborea
 	{
-		"name": "War Mammoth",
-		"unitType": "Mounted",
-		"uniqueTo": "Hyperborea",
-		"replaces": "Catapult",
-		"movement": 2,
-		"strength": 16,
-		"cost": 130,
-		"requiredTech": "Horseback Riding",
-		"upgradesTo": "Armoured War Mammoth",
-		"uniques": ["No defensive terrain bonus", "[+100]% Strength <vs cities> <when attacking>","[-33]% Strength <vs [Siege] units>",
-		"[-33]% Strength <vs [Ranged] units>","[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
-		"hurryCostModifier": 20,
-		"requiredResource": "Horses",
-		"attackSound": "elephant"
-	},
-	{
-		"name": "Armoured War Mammoth",
-		"unitType": "Mounted",
-		"uniqueTo": "Hyperborea",
-		"replaces": "Trebuchet",
-		"movement": 2,
-		"strength": 28,
-		"cost": 150,
-		"requiredTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "[+100]% Strength <vs cities> <when attacking>","[-33]% Strength <vs [Siege] units>",
-		"[-33]% Strength <vs [Ranged] units>","[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
-		"hurryCostModifier": 20,
-		"requiredResource": "Horses",
-		"attackSound": "elephant"
-	},
-	{
-		"name": "Nail-driver",
-		"unitType": "Sword",
-		"replaces": "Pikeman",
-		"uniqueTo": "Hyperborea",
-		"movement": 3,
-		"strength": 18,
-		"cost": 120,
-		"requiredTech": "Civil Service",
-		"uniques": ["[+33]% Strength <vs [Mounted] units>","[+33]% Strength <vs [Sword] units>"],
-		"upgradesTo": "Lancer",
-		"obsoleteTech": "Metallurgy",
-		"promotions": ["Child of Perun"],
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Scarred",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
@@ -58,23 +12,7 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Iron",
-		"promotions": ["Child of Perun II"],
+		"uniques": ["Can move after attacking","[+33]% Strength <when fighting in [Tundra] tiles>", "Heals [25] damage if it kills a unit", "Recieve [+1 Movement] if it kills a unit"],
 		"attackSound": "metalhit"
-	},
-	{
-		"name": "Elkback Strider",
-		"unitType": "Mounted",
-		"replaces": "Knight",
-		"uniqueTo": "Hyperborea",
-		"movement": 5,
-		"strength": 22,
-		"cost": 150,
-		"requiredTech": "Chivalry",
-		"requiredResource": "Horses",
-		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+33]% Strength <vs [Ranged] units>"],
-		"promotions": ["Child of Perun"],
-		"attackSound": "horse"
 	}
 ]
