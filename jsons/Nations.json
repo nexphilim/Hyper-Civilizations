@@ -65,7 +65,7 @@
 		"innerColor": [0,255,255],
 		"uniqueName": "Eternal Spring",
 		"uniques": ["Gain a free [Crashed Colony Ship] [in capital]",
-			"[+1 Food, +1 Faith] from every [Forest]"],
+			"[+1 Food, +1 Faith] from every [Tundra]"],
 		"cities": ["Perunva","Opona","Sinashka","Kurghan","Dargava","Kapova","Evyenki","Artona","Langria","Savakasing",
 			"Scarssomin","Neumitopa","Hepwaki","Lemak","Lanilem","Witnas","Hadnas","Shelge","Brentmack","Hermidon"]
 	}

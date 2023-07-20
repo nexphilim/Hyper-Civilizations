@@ -3,7 +3,7 @@
 	{
 		"name": "Crashed Colony Ship",
 		"uniqueTo": "Hyperboreans",
-		"uniques": ["Unbuildable","[2] free [Worker] units appear"],
+		"uniques": ["Unbuildable","Free [Worker] appears","Free [Scout] appears"],
 		"science": 5,
 		"isNationalWonder": true
 	}

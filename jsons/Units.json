@@ -10,8 +10,8 @@
 		"cost": 130,
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Armoured War Mammoth",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[+200]% Strength <vs cities> <when attacking>","[-33]% Strength <vs [Siege] units>",
-			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"uniques": ["No defensive terrain bonus", "[+100]% Strength <vs cities> <when attacking>","[-33]% Strength <vs [Siege] units>",
+		"[-33]% Strength <vs [Ranged] units>","[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
 		"hurryCostModifier": 20,
 		"requiredResource": "Horses",
 		"attackSound": "elephant"
@@ -25,8 +25,8 @@
 		"strength": 28,
 		"cost": 150,
 		"requiredTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[+200]% Strength <vs cities> <when attacking>","[-33]% Strength <vs [Siege] units>",
-			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"uniques": ["No defensive terrain bonus", "[+100]% Strength <vs cities> <when attacking>","[-33]% Strength <vs [Siege] units>",
+		"[-33]% Strength <vs [Ranged] units>","[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
 		"hurryCostModifier": 20,
 		"requiredResource": "Horses",
 		"attackSound": "elephant"
