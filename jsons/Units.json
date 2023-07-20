@@ -14,8 +14,8 @@
 		"requiredResource": "Iron",
 		"uniques": ["Can move after attacking",
 					"[+33]% Strength <when fighting in [Tundra] tiles>", 
-					"Heals [25] damage if it kills a unit", 
-					"[1] additonal attacks per turn"],
+					"Heals [25] damage if it kills a unit"],
+		"promotion": "Blitz",
 		"attackSound": "metalhit"
 	}
 ]
