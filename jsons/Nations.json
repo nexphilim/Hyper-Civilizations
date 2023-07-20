@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Mourama",
+		"leaderName": "Cibrán Mrtuos",
+		"adjective": ["Mouro"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Fine bedrock, your corpse wilt become...",
+		"attacked": "Insolent surface-dwelling cretin!",
+		"defeated": "Our tombs hath become sealed, to Gaea return...",
+		"introduction": "Name thyself, stranger. We are the Mouros, the warm womb of Gaea hath birthed us, this world our birthrite...",
+		
+		"neutralHello": "Fine greetings.",
+		"neutralLetsHearIt": ["Go on.","What be it?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","It will not be so.","It shant be."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["Out with it!","What do you say?","Go on."],
+		"hateNo": ["Gaea refuses."],
+		"hateYes": ["Gaea accepts, very well..."],
+		
+		"afterPeace": "Fair. One less tomb.",
+		"tradeRequest": "We bestow you fortunes, for a price...",
+
+		"outerColor": [255,215,0],
+		"innerColor": [102,205,170],
+		"uniqueName": "",
+		"cities": ["Aviliobris","Letiobri","Talabriga","Nemetobriga","Louciocelo","Bergisamo","Segisamo","Carantiobrixs","Talobrixs",
+			"Ombre","Anobrixs","Biobra","Vidobriga","Bendollo","Vindocelo","Andamollo","Uxsamo","Segisamo","Ledesma"]
+	},
+	{
+		"name": "Hyperborea",
+		"leaderName": "Þunraz Wodan",
+		"adjective": ["Hyperborean"],
+		"startBias": ["Mountain","Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": ["Go on.","What be it?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","It will not be so.","It shant be."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["Out with it!","What do you say?","Go on."],
+		"hateNo": "The Will refuses.",
+		"hateYes": "Gaea accepts, very well...",
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [70,130,180],
+		"innerColor": [0,255,255],
+		"uniqueName": "Eternal Spring",
+		"uniques": ["Gain a free [Crashed Colony Ship] [in capital]",
+			"[+2 Food, +2 Faith] [in all cities] from [Forest]"],
+		"cities": ["Perunva","Opona","Sinashka","Kurghan","Dargava","Kapova","Evyenki","Artona","Langria","Savakasing",
+			"Scarssomin","Neumitopa","Hepwaki","Lemak","Lanilem","Witnas","Hadnas","Shelge","Brentmack","Hermidon"]
+	}
+]

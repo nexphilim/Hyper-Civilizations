@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Bandua Incarnate",
+		"unitType": "Civilian",
+		"uniqueTo": "Mouros",
+		"replaces": "Great General",
+		"movement": 2,
+		"uniques": ["Empire enters a [6]-turn Golden Age <by consuming this unit>",
+		"[+25]% Strength bonus for [Military] units within [2] tiles",
+		"Can instantly construct a [Citadel] improvement <by consuming this unit>",
+		"Great Person - [War]",
+		"Unbuildable",
+		"Uncapturable"]
+	},
+	{
+		"name": "Lugus Incarnate",
+		"unitType": "Civilian",
+		"uniqueTo": "Mouros",
+		"replaces": "Great Merchant",
+		"uniques": ["Empire enters a [6]-turn Golden Age <by consuming this unit>",
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>",
+			"Great Person - [Gold]",
+			"Unbuildable",
+			"Uncapturable"],
+		"movement": 2
+	}
+]

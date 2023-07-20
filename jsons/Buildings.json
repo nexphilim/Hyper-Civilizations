@@ -1,0 +1,11 @@
+[
+	//Hyperborea
+	{
+		"name": "Crashed Colony Ship",
+		"uniqueTo": "Hyperboreans",
+		"uniques": ["[2] free [Worker] units appear","Free [Settler] appears"],
+		"science": 3,
+		"isNationalWonder": true
+	}
+
+]
