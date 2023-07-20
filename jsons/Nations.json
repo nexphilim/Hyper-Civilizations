@@ -64,9 +64,7 @@
 		"outerColor": [70,130,180],
 		"innerColor": [0,255,255],
 		"uniqueName": "Eternal Spring",
-		"uniques": ["Gain a free [Crashed Colony Ship] [in capital]",
-					"Gain a free [Test Colony Ship] [in capital]",
-					"[+1 Food, +1 Faith] from every [Snow]"],
+		"uniques": ["[+1 Food, +1 Faith] from every [[Snow],[Tundra]]"],
 		"cities": ["Perunva","Opona","Sinashka","Kurghan","Dargava","Kapova","Evyenki","Artona","Langria","Savakasing",
 			"Scarssomin","Neumitopa","Hepwaki","Lemak","Lanilem","Witnas","Hadnas","Shelge","Brentmack","Hermidon"]
 	}
