@@ -10,7 +10,7 @@
 		"cost": 130,
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Trebuchet",
-		"uniques": ["No defensive terrain bonus", "[+100]% Strength <vs cities> <when attacking>","[-33]% Strength <vs [Siege] units>",
+		"uniques": ["No defensive terrain bonus", "[+100]% Strength <vs cities> <when attacking>",
 		"[-33]% Strength <vs [Ranged] units>","[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
 		"hurryCostModifier": 20,
 		"requiredResource": "Horses",
@@ -28,7 +28,7 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Iron",
-		"uniques": ["Can move after attacking",	"[+33]% Strength <when fighting in [Tundra] tiles>", 
+		"uniques": ["Can move after attacking",	"[+33]% Strength <when fighting in [Snow] tiles>", 
 					"Heals [25] damage if it kills a unit"],
 		"promotions": ["Blitz"],
 		"attackSound": "metalhit"
