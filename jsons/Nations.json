@@ -35,7 +35,7 @@
 	},
 	{
 		"name": "Hyperborea",
-		"leaderName": "Þunraz Wodan",
+		"leaderName": "Yunraz Wodan",
 		"adjective": ["Hyperborean"],
 		"startBias": ["Mountain","Forest"],
 		"preferredVictoryType": "Domination",
@@ -56,7 +56,7 @@
 		"hateHello": "...",
 		"hateLetsHearIt": ["Out with it!","What do you say?","Go on."],
 		"hateNo": "The Will refuses.",
-		"hateYes": "Gaea accepts, very well...",
+		"hateYes": "Very well...",
 		
 		"afterPeace": "",
 		"tradeRequest": "",
@@ -65,7 +65,7 @@
 		"innerColor": [0,255,255],
 		"uniqueName": "Eternal Spring",
 		"uniques": ["Gain a free [Crashed Colony Ship] [in capital]",
-			"[+2 Food, +2 Faith] [in all cities] from [Forest]"],
+			"[+2 Food, +2 Faith] from every [Forest]"],
 		"cities": ["Perunva","Opona","Sinashka","Kurghan","Dargava","Kapova","Evyenki","Artona","Langria","Savakasing",
 			"Scarssomin","Neumitopa","Hepwaki","Lemak","Lanilem","Witnas","Hadnas","Shelge","Brentmack","Hermidon"]
 	}
