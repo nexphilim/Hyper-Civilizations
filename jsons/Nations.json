@@ -37,7 +37,7 @@
 		"name": "Hyperborea",
 		"leaderName": "Yunraz Wodan",
 		"adjective": ["Hyperborean"],
-		"startBias": ["Mountain","Forest"],
+		"startBias": ["Mountain","Forest", "Tundra"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "",
@@ -65,7 +65,7 @@
 		"innerColor": [0,255,255],
 		"uniqueName": "Eternal Spring",
 		"uniques": ["Gain a free [Crashed Colony Ship] [in capital]",
-			"[+2 Food, +2 Faith] from every [Forest]"],
+			"[+1 Food, +1 Faith] from every [Forest]"],
 		"cities": ["Perunva","Opona","Sinashka","Kurghan","Dargava","Kapova","Evyenki","Artona","Langria","Savakasing",
 			"Scarssomin","Neumitopa","Hepwaki","Lemak","Lanilem","Witnas","Hadnas","Shelge","Brentmack","Hermidon"]
 	}
