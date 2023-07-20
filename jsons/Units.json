@@ -15,7 +15,7 @@
 		"uniques": ["Can move after attacking",
 					"[+33]% Strength <when fighting in [Tundra] tiles>", 
 					"Heals [25] damage if it kills a unit"],
-		"promotion": "Blitz",
+		"promotions": "Blitz",
 		"attackSound": "metalhit"
 	}
 ]
