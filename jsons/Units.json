@@ -12,7 +12,7 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Iron",
-		"uniques": ["Can move after attacking","[+33]% Strength <when fighting in [Tundra] tiles>", "Heals [25] damage if it kills a unit", "Recieve [+1 Movement] if it kills a unit"],
+		"uniques": ["Can move after attacking","[+33]% Strength <when fighting in [Tundra] tiles>", "Heals [25] damage if it kills a unit", "Recieve [+4 Movement] if it kills a unit"],
 		"attackSound": "metalhit"
 	}
 ]
