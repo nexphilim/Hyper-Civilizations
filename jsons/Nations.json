@@ -28,10 +28,13 @@
 		"tradeRequest": "We bestow you fortunes, for a price...",
 
 		"outerColor": [255,215,0],
-		"innerColor": [102,205,170],
+		"innerColor": [3,115,86],
 		"uniqueName": "Enchanted Tools",
 		"uniques": ["[+2 Faith] from every [Mine, Quarry]",
-					"Double quantity of [Copper, Gold, Gems, Silver] produced"],
+					"Double quantity of [Copper] produced",
+					"Double quantity of [Gold] produced", 
+					"Double quantity of [Gems] produced",
+					"Double quantity of [Silver] produced"],
 		"cities": ["Aviliobris","Letiobri","Talabriga","Nemetobriga","Louciocelo","Bergisamo","Segisamo","Carantiobrixs","Talobrixs",
 			"Ombre","Anobrixs","Biobra","Vidobriga","Bendollo","Vindocelo","Andamollo","Uxsamo","Segisamo","Ledesma"]
 	},
@@ -63,10 +66,11 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [70,130,180],
+		"outerColor": [0,0,0],
 		"innerColor": [0,255,255],
 		"uniqueName": "Eternal Spring",
-		"uniques": ["[+1 Faith, +1 Food] from every [Snow, Tundra]",
+		"uniques": ["[+1 Faith, +1 Food] from every [Snow]",
+					"[+1 Faith, +1 Food] from every [Tundra]",
 					"[+2 Food] from every [Forest]"],
 		"cities": ["Perunva","Opona","Sinashka","Kurghan","Dargava","Kapova","Evyenki","Artona","Langria","Savakasing",
 			"Scarssomin","Neumitopa","Hepwaki","Lemak","Lanilem","Witnas","Hadnas","Shelge","Brentmack","Hermidon"]
