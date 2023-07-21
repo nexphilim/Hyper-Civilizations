@@ -64,8 +64,8 @@
 		"outerColor": [70,130,180],
 		"innerColor": [0,255,255],
 		"uniqueName": "Eternal Spring",
-		"uniques": ["[+2 Food, +2 Faith] from every [Snow]",
-					"[+1 Food, +1 Faith] from every [Tundra]"],
+		"uniques": ["[+1 Food, +1 Faith] from every [Snow]",
+					"[+1 Food] from every [Tundra]"],
 		"cities": ["Perunva","Opona","Sinashka","Kurghan","Dargava","Kapova","Evyenki","Artona","Langria","Savakasing",
 			"Scarssomin","Neumitopa","Hepwaki","Lemak","Lanilem","Witnas","Hadnas","Shelge","Brentmack","Hermidon"]
 	}
