@@ -21,7 +21,7 @@
 
 		"hateHello": "...",
 		"hateLetsHearIt": ["Out with it!","What do you say?","Go on."],
-		"hateNo": ["Gaea refuses."],
+		"hateNo": ["Gaea refuses!"],
 		"hateYes": ["Gaea accepts, very well..."],
 		
 		"afterPeace": "Fair. One less tomb.",
@@ -29,7 +29,9 @@
 
 		"outerColor": [255,215,0],
 		"innerColor": [102,205,170],
-		"uniqueName": "",
+		"uniqueName": "Enchanted Tools",
+		"uniques": ["[+2 Faith] from every [Mine, Quarry]",
+					"Double quantity of [Copper, Gold, Gems, Silver] produced"],
 		"cities": ["Aviliobris","Letiobri","Talabriga","Nemetobriga","Louciocelo","Bergisamo","Segisamo","Carantiobrixs","Talobrixs",
 			"Ombre","Anobrixs","Biobra","Vidobriga","Bendollo","Vindocelo","Andamollo","Uxsamo","Segisamo","Ledesma"]
 	},
@@ -37,7 +39,7 @@
 		"name": "Hyperborea",
 		"leaderName": "Yunraz Wodan",
 		"adjective": ["Hyperborean"],
-		"startBias": ["Snow","Mountain"],
+		"startBias": ["Tundra","Mountain"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "",
@@ -64,8 +66,8 @@
 		"outerColor": [70,130,180],
 		"innerColor": [0,255,255],
 		"uniqueName": "Eternal Spring",
-		"uniques": ["[+1 Food, +1 Faith] from every [Snow]",
-					"[+1 Food] from every [Tundra]"],
+		"uniques": ["[+1 Faith, +1 Food] from every [Snow, Tundra]",
+					"[+2 Food] from every [Forest]"],
 		"cities": ["Perunva","Opona","Sinashka","Kurghan","Dargava","Kapova","Evyenki","Artona","Langria","Savakasing",
 			"Scarssomin","Neumitopa","Hepwaki","Lemak","Lanilem","Witnas","Hadnas","Shelge","Brentmack","Hermidon"]
 	}

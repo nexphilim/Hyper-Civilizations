@@ -1,3 +1,13 @@
 [
-	
+    {
+		"name": "Mámoa",
+		"replaces": "Monument",
+		"uniqueTo": "Mourama",
+		"culture": 2,
+		"faith": 2,
+        "gold": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 2
+	}
 ]
