@@ -27,8 +27,8 @@
 		"afterPeace": "Fair. One less tomb.",
 		"tradeRequest": "We bestow you fortunes, for a price...",
 
-		"outerColor": [255,215,0],
-		"innerColor": [3,115,86],
+		"outerColor": [3,115,86],
+		"innerColor": [255,215,0],
 		"uniqueName": "Enchanted Tools",
 		"uniques": ["[+2 Faith] from every [Mine, Quarry]",
 					"Double quantity of [Copper] produced",
@@ -66,8 +66,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [0,0,0],
-		"innerColor": [0,255,255],
+		"outerColor": [0,255,255],
+		"innerColor": [0,0,0],
 		"uniqueName": "Eternal Spring",
 		"uniques": ["[+1 Faith, +1 Food] from every [Snow]",
 					"[+1 Faith, +1 Food] from every [Tundra]",
