@@ -70,10 +70,45 @@
 		"outerColor": [0,255,255],
 		"innerColor": [0,0,0],
 		"uniqueName": "Eternal Spring",
-		"uniques": ["[+1 Faith, +1 Food] from every [Snow]",
-					"[+1 Faith, +1 Food] from every [Tundra]",
-					"[+2 Food] from every [Forest]"],
+		"uniques": ["[+2 Food] from every [Snow]",
+					"[+2 Food] from every [Tundra]"],
 		"cities": ["Perunva","Opona","Sinashka","Kurghan","Dargava","Kapova","Evyenki","Artona","Langria","Savakasing",
 			"Scarssomin","Neumitopa","Hepwaki","Lemak","Lanilem","Witnas","Hadnas","Shelge","Brentmack","Hermidon"]
+	},
+	{
+		"name": "Vril-yan Thule",
+		"leaderName": "Ulvmåte",
+		"adjective": ["Thule"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": ["Go on.","What be it?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","It will not be so.","It shant be."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["Out with it!","What do you say?","Go on."],
+		"hateNo": "No.",
+		"hateYes": "Yes.",
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"uniqueName": "Secrets of the Vril",
+		"uniques": ["[+1%] [Faith] per [1] population [in all cities]",
+					"Earn [10]% of killed [All] unit's [Cost] as [Faith]"],
+		"cities": ["Naumudalr","Eystridalr","Firoafylki","Eiriksholmar","Fellsstrond","Kroppr","Hjaltland","Seljalandsmuli","Rangarvellir","Glooafeykisa",
+			"Hroksholt","Bakkarholt","Patreksfjoror","Kerlingara","Reyoarvatn","Hrafnkelsdalr","Fiflavellir","Botn","Fjalir","Asbjarnarstaoir"]
 	}
 ]
