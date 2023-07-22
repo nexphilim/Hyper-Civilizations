@@ -27,7 +27,7 @@
 		"afterPeace": "Fair. One less tomb.",
 		"tradeRequest": "We bestow you fortunes, for a price...",
 
-		"outerColor": [255,184,33],
+		"outerColor": [30,39,23],
 		"innerColor": [102,205,170],
 		"uniqueName": "Enchanted Tools",
 		"uniques": ["[+2 Faith] from every [Mine]", 
@@ -103,8 +103,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [255,255,255],
-		"innerColor": [0,0,0],
+		"outerColor": [189,183,147],
+		"innerColor": [128,124,74],
 		"uniqueName": "Secrets of the Vril",
 		"uniques": ["[+1 Faith] per [1] population [in all cities]",
 					"Earn [10]% of killed [All] unit's [Cost] as [Faith]"],
