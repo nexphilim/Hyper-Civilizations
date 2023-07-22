@@ -19,6 +19,7 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Science] per [2] population [in this city]",
 					"[+1 Faith] per [2] population [in this city]"],
-		"requiredTech": "Writing"
+		"requiredTech": "Writing",
+		"maintenance": 1
 	}
 ]
