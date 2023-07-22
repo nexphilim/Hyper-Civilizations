@@ -38,6 +38,7 @@
 	{
 		"name": "Vril-powered Flying Object",
 		"unitType": "Helicopter",
+		"uniqueTo": "Vril-yan Thule",
 		"movement": 8,
 		"strength": 88,
 		"cost": 888,
