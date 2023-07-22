@@ -33,5 +33,19 @@
 					"Heals [25] damage if it kills a unit"],
 		"promotions": ["Blitz"],
 		"attackSound": "metalhit"
+	},
+	//Vril-yan Thule
+	{
+		"name": "Vril-powered Flying Object",
+		"unitType": "Helicopter",
+		"movement": 8,
+		"strength": 88,
+		"cost": 888,
+		"requiredTech": "Electricity",
+		"requiredResource": "Aluminum",
+		"uniques": ["No defensive terrain bonus", "Can move after attacking", "All tiles cost 1 movement",
+					"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]", 
+					"Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "Unbuildable"],
+		"attackSound": "phasers"
 	}
 ]

@@ -1,4 +1,5 @@
 [
+	//Mourama
     {
 		"name": "Mamoa",
 		"replaces": "Monument",
@@ -9,5 +10,15 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 2
+	},
+	//Vril-yan Thule
+	{
+		"name": "Study Group",
+		"replaces": "Library",
+		"uniqueTo": "Vril-yan Thule",
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Science] per [2] population [in this city]",
+					"[+1 Faith] per [2] population [in this city]"],
+		"requiredTech": "Writing"
 	}
 ]
