@@ -27,8 +27,8 @@
 		"afterPeace": "Fair. One less tomb.",
 		"tradeRequest": "We bestow you fortunes, for a price...",
 
-		"outerColor": [3,115,86],
-		"innerColor": [255,215,0],
+		"outerColor": [255,215,0],
+		"innerColor": [102,205,170],
 		"uniqueName": "Enchanted Tools",
 		"uniques": ["[+2 Faith] from every [Mine, Quarry]",
 					"Double quantity of [Copper] produced",
