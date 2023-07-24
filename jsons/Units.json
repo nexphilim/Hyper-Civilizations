@@ -53,10 +53,10 @@
 	{
 		"name": "Foreign Worker",
 		"unitType": "Civilian",
-		"uniqueTo": "Cockaigne",
 		"replaces": "Worker",
+		"uniqueTo": "Cockaigne",
 		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Unbuildable", "Only available <after discovering [Agriculture]>"],
-		"cost": 70
+		"cost": 70,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Unbuildable", "Can be purchased for [70] [Gold] [in all cities]"]
 	}
 ]
