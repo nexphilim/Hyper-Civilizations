@@ -138,8 +138,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [199, 21, 133],
-		"innerColor": [81, 0, 137],
+		"outerColor": [255, 0, 255],
+		"innerColor": [246, 150, 31],
 		"uniqueName": "Fool's Paradise",
 		"uniques": ["Double quantity of [Citrus] produced",
 					"Double quantity of [Crab] produced",
