@@ -54,9 +54,10 @@
 		"name": "Foreign Worker",
 		"unitType": "Civilian",
 		"uniqueTo": "Cockaigne",
+		"requiredTech": "Agriculture",
 		"replaces": "Worker",
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Unbuildable", "Can be purchased for with [Gold] [in all cities]"],
 		"cost": 140
-	},
+	}
 ]
