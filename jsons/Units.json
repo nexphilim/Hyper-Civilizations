@@ -56,7 +56,7 @@
 		"uniqueTo": "Cockaigne",
 		"replaces": "Worker",
 		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Unbuildable"],
-		"cost": 140
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Unbuildable", "Only available <after discovering [Agriculture]>"],
+		"cost": 70
 	}
 ]
