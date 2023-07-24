@@ -21,5 +21,16 @@
 					"[+1 Faith] per [2] population [in this city]"],
 		"requiredTech": "Writing",
 		"maintenance": 1
+	},
+	//Cockaigne
+	{
+		"name": "Nunnery",
+		"replaces": "Shrine",
+		"uniqueTo": "Cockaigne",
+		"faith": 1,
+		"happiness": 3,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery"
 	}
 ]

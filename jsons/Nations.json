@@ -115,7 +115,7 @@
 		"name": "Cockaigne",
 		"leaderName": "George Ellis",
 		"adjective": ["Cockney"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Culture",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -138,7 +138,7 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [90, 68, 15],
+		"outerColor": [199, 21, 133],
 		"innerColor": [81, 0, 137],
 		"uniqueName": "Fool's Paradise",
 		"uniques": ["Double quantity of [Citrus] produced",

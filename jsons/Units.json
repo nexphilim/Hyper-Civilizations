@@ -48,5 +48,15 @@
 					"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]", 
 					"Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "Unbuildable"],
 		"attackSound": "phasers"
-	}
+	},
+	//Cockaigne
+	{
+		"name": "Foreign Worker",
+		"unitType": "Civilian",
+		"uniqueTo": "Cockaigne",
+		"replaces": "Worker",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Unbuildable", "Can be purchased for with [Gold] [in all cities]"],
+		"cost": 140
+	},
 ]
