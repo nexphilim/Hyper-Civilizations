@@ -69,10 +69,10 @@
 		"strength": 14,
 		"cost": 120,
 		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
+		"upgradesTo": ["Longswordsman","Orichalcos Swordsman"],
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
-		"uniques": ["Can transform to [Orichalcos Swordsman] <with [1] [Gold Ore]>", "May attack when embarked"],
+		"uniques": ["May attack when embarked"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -82,9 +82,9 @@
 		"movement": 2,
 		"strength": 21,
 		"upgradesTo": "Musketman",
-		"requiredResource": "Iron",
-		"uniques": ["Unbuildable", "May attack when embarked", "Unit will heal every turn, even if it performs an action", 
-					"Never appears as a Barbarian unit", "[+25]% Strength bonus for [Land] units within [2] tiles"],
+		"requiredResource": ["Iron", "Gold Ore"],
+		"uniques": ["May attack when embarked", "Unbuildable", "Unit will heal every turn, even if it performs an action", 
+					"Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"
 	}
 ]
