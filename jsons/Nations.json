@@ -142,17 +142,88 @@
 		"innerColor": [246, 150, 31],
 		"uniqueName": "Fool's Paradise",
 		"uniques": ["Double quantity of [Citrus] produced",
-					"Double quantity of [Crab] produced",
 					"Double quantity of [Salt] produced",
 					"Double quantity of [Spices] produced",
 					"Double quantity of [Sugar] produced",
 					"Double quantity of [Truffles] produced",
-					"Double quantity of [Whales] produced",
 					"Double quantity of [Wine] produced",
-					"[+100]% growth [in all cities]",
-					"[3] Happiness from each type of luxury resource",
-					"[+20]% of excess happiness converted to [Culture]"],
+					"[+20]% growth [in all cities]"],
 		"cities": ["Plentyham","Käseland","Winebottom","Teaville","Porkington","Cockenham","Salthills","Lazyville","Deliziosa","Goofenlanden",
 			"Luilekkerland","Schlaraffenland","Jauja","Cucaña","Lubberland","Cocaineville","Landofham","Porking","Beneformaggio","Leckerland"]
+	},
+	//Orichalcum Sea Mayans?
+	{
+		"name": "Atlantis",
+		"leaderName": "Atlas",
+		"adjective": ["Atlantean"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": ["Go on.","What be it?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","It will not be so.","It shant be."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["Out with it!","What do you say?","Go on."],
+		"hateNo": "The Will refuses.",
+		"hateYes": "Very well...",
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [0,255,255],
+		"innerColor": [0,0,0],
+		"uniqueName": "Divine Ancestry",
+		"uniques": ["[{Military} {Land}] units gain the [Amphibious] promotion", "Defense bonus when embarked <for [All] units>", 
+					"[0] Movement point cost to disembark", "[0] Movement point cost to embark", "Double movement in [Water]",
+					"[+2 Science] from [Mine] tiles [in all cities]"],
+		"cities": ["Atlas","Gadeirus","Azaes","Evaemon","Elassipus","Mestor","Ampheres","Autochthon","Diaprepes","Mnesus",
+			"Timaeus","Critias","Hermocrates","Orichalcos","Ironheart","Dartz","Iona","Arnis","Aether","Ventdra"]
+	},
+	//Megafuana boss-units
+	{
+		"name": "Doggerland",
+		"leaderName": "A",
+		"adjective": ["Dogger"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": ["Go on.","What be it?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","It will not be so.","It shant be."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["Out with it!","What do you say?","Go on."],
+		"hateNo": "The Will refuses.",
+		"hateYes": "Very well...",
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [0,255,255],
+		"innerColor": [0,0,0],
+		"uniqueName": "Eternal Spring",
+		"uniques": ["[+2 Food] from every [Snow]",
+					"[+2 Food] from every [Tundra]"],
+		"cities": ["Perunva","Opona","Sinashka","Kurghan","Dargava","Kapova","Evyenki","Artona","Langria","Savakasing",
+			"Scarssomin","Neumitopa","Hepwaki","Lemak","Lanilem","Witnas","Hadnas","Shelge","Brentmack","Hermidon"]
 	}
 ]

@@ -56,7 +56,35 @@
 		"replaces": "Worker",
 		"uniqueTo": "Cockaigne",
 		"movement": 2,
-		"cost": 70,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Unbuildable", "Can be purchased for [70] [Gold] [in all cities]"]
+		"cost": 140,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Unbuildable", "Can be purchased for [140] [Gold] [in all cities]"]
+	},
+	//Atlantis
+	{
+		"name": "Atlantean Swordsman",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Atlantis",
+		"movement": 2,
+		"strength": 14,
+		"cost": 120,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"uniques": ["Can transform to [Orichalcos Swordsman] <with [Gold Ore]>", "May attack when embarked"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Orichalcos Swordsman",
+		"unitType": "Sword",
+		"uniqueTo": "Atlantis",
+		"movement": 2,
+		"strength": 21,
+		"upgradesTo": "Musketman",
+		"requiredResource": "Iron",
+		"uniques": ["Unbuildable", "May attack when embarked", "Unit will heal every turn, even if it performs an action", 
+					"Never appears as a Barbarian unit", "[+25]% Strength bonus for [Land] units within [2] tiles"],
+		"attackSound": "metalhit"
 	}
 ]
