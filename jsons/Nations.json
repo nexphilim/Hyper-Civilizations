@@ -184,8 +184,7 @@
 		"innerColor": [96,167,146],
 		"uniqueName": "Aquarian Ancestry",
 		"uniques": ["[{Military} {Land}] units gain the [Amphibious] promotion", "Defense bonus when embarked <for [All] units>", 
-					"[0] Movement point cost to disembark", "[0] Movement point cost to embark", "Double movement in [Water]",
-					"[+2 Science] from [Mine] tiles [in all cities]"],
+					"[0] Movement point cost to disembark", "[0] Movement point cost to embark", "Double movement in [Water]"],
 		"cities": ["Atlas","Gadeirus","Azaes","Evaemon","Elassipus","Mestor","Ampheres","Autochthon","Diaprepes","Mnesus",
 			"Timaeus","Critias","Hermocrates","Orichalcos","Ironheart","Dartz","Iona","Arnis","Aether","Ventdra"]
 	},
