@@ -180,9 +180,9 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [0,255,255],
-		"innerColor": [0,0,0],
-		"uniqueName": "Divine Ancestry",
+		"outerColor": [14,49,38],
+		"innerColor": [96,167,146],
+		"uniqueName": "Aquarian Ancestry",
 		"uniques": ["[{Military} {Land}] units gain the [Amphibious] promotion", "Defense bonus when embarked <for [All] units>", 
 					"[0] Movement point cost to disembark", "[0] Movement point cost to embark", "Double movement in [Water]",
 					"[+2 Science] from [Mine] tiles [in all cities]"],
@@ -218,8 +218,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [0,255,255],
-		"innerColor": [0,0,0],
+		"outerColor": [14,49,38],
+		"innerColor": [96,167,146],
 		"uniqueName": "Eternal Spring",
 		"uniques": ["[+2 Food] from every [Snow]",
 					"[+2 Food] from every [Tundra]"],
