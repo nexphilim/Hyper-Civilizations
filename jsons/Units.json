@@ -82,8 +82,8 @@
 		"movement": 2,
 		"strength": 21,
 		"upgradesTo": "Musketman",
-		"requiredResource": "Gold Ore",
-		"uniques": ["May attack when embarked", "Unbuildable", "Unit will heal every turn, even if it performs an action", 
+		"requiredResource": "Iron",
+		"uniques": ["May attack when embarked", "Consumes [1] [Gold Ore]", "Unbuildable", "Unit will heal every turn, even if it performs an action", 
 					"Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"
 	}
