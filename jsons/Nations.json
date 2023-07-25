@@ -183,8 +183,8 @@
 		"outerColor": [14,49,38],
 		"innerColor": [96,167,146],
 		"uniqueName": "Aquarian Ancestry",
-		"uniques": ["[{Military} {Land}] units gain the [Amphibious] promotion", "Defense bonus when embarked <for [All] units>", 
-					"[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Double movement in [Water]"],
+		"uniques": ["[{Military} {Land}] units gain the [Amphibious] promotion", "Defense bonus when embarked <for [Military] units>", 
+					"[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Double movement in [Ocean]"],
 		"cities": ["Atlas","Gadeirus","Azaes","Evaemon","Elassipus","Mestor","Ampheres","Autochthon","Diaprepes","Mnesus",
 			"Timaeus","Critias","Hermocrates","Orichalcos","Ironheart","Dartz","Iona","Arnis","Aether","Ventdra"]
 	},
