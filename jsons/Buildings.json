@@ -32,5 +32,17 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery"
+	},
+	//Atlantis
+	{
+		"name": "Water Temple",
+		"replaces": "Temple",
+		"uniqueTo": "Atlantis",
+		"faith": 3,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Faith] from [Coast] tiles [in this city]", "Destroyed when the city is captured"]
 	}
 ]
