@@ -72,7 +72,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
-		"uniques": ["May attack when embarked"],
+		"uniques": ["May attack when embarked", "Can transform to [Orichalcos Swordsman]"],
 		"attackSound": "metalhit"
 	},
 	{
