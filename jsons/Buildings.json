@@ -45,18 +45,4 @@
 		"requiredTech": "Philosophy",
 		"uniques": ["[+1 Faith] from [Coast] tiles [in this city]", "Destroyed when the city is captured"]
 	}
-	//Doggerland
-	{
-		"name": "Ealdorbeam",
-		"replaces": "Palace",
-		"uniqueTo": "Doggerland",
-		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
-		"gold": 3,
-		"culture": 1,
-		"cityStrength": 2,
-		"cost": 1,
-		"uniques": ["Indicates the capital city", "Provides [1] [Terrible Soul]"]
-	},
 ]
