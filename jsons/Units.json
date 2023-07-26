@@ -86,5 +86,18 @@
 		"uniques": ["May attack when embarked", "Consumes [1] [Gold Ore]", "Unbuildable", "Unit will heal every turn, even if it performs an action", 
 					"Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"
+	},
+	//Doggerland
+	{
+		"name": "Behemoth",
+		"unitType": "Armored",
+		"uniqueTo": "Doggerland",
+		"movement": 1,
+		"strength": 150,
+		"cost": 500,
+		"uniques": ["All tiles cost 1 movement","No defensive terrain bonus", "Never appears as a Barbarian unit", 
+					"Cannot enter ocean tiles", "Destroys tile improvements when attacking", "Can see over obstacles",
+					"[-25]% Strength for enemy [Military] units in adjacent [All] tiles", "Consumes [1] [Great Beast Soul]"],
+		"attackSound": "elephant"
 	}
 ]

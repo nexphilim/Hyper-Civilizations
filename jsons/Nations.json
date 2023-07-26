@@ -151,7 +151,6 @@
 		"cities": ["Plentyham","Käseland","Winebottom","Teaville","Porkington","Cockenham","Salthills","Lazyville","Deliziosa","Goofenlanden",
 			"Luilekkerland","Schlaraffenland","Jauja","Cucaña","Lubberland","Cocaineville","Landofham","Porking","Beneformaggio","Leckerland"]
 	},
-	//Orichalcum Sea Mayans?
 	{
 		"name": "Atlantis",
 		"leaderName": "Atlas",
@@ -191,9 +190,8 @@
 	//Megafuana boss-units
 	{
 		"name": "Doggerland",
-		"leaderName": "A",
+		"leaderName": "Tilmund",
 		"adjective": ["Dogger"],
-		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "",
