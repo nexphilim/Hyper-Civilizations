@@ -191,7 +191,7 @@
 	{
 		"name": "Doggerland",
 		"leaderName": "Tilmund",
-		"adjective": ["Dogger"],
+		"adjective": ["Doggun"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "",
@@ -217,9 +217,8 @@
 
 		"outerColor": [14,49,38],
 		"innerColor": [96,167,146],
-		"uniqueName": "Eternal Spring",
-		"uniques": ["[+2 Food] from every [Snow]",
-					"[+2 Food] from every [Tundra]"],
+		"uniqueName": "",
+		"uniques": [""],
 		"cities": ["Perunva","Opona","Sinashka","Kurghan","Dargava","Kapova","Evyenki","Artona","Langria","Savakasing",
 			"Scarssomin","Neumitopa","Hepwaki","Lemak","Lanilem","Witnas","Hadnas","Shelge","Brentmack","Hermidon"]
 	}

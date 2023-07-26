@@ -94,10 +94,26 @@
 		"uniqueTo": "Doggerland",
 		"movement": 1,
 		"strength": 150,
-		"cost": 500,
-		"uniques": ["All tiles cost 1 movement","No defensive terrain bonus", "Never appears as a Barbarian unit", 
+		"cost": 666,
+		"uniques": ["Consumes [1] [Terrible Soul]","Consumes [3] [Horses]","Consumes [3] [Iron]"
+					,"Triggers the following global alert: [A terrible beast has been born...]",
+					"All tiles cost 1 movement","No defensive terrain bonus", "Never appears as a Barbarian unit", 
 					"Cannot enter ocean tiles", "Destroys tile improvements when attacking", "Can see over obstacles",
-					"[-25]% Strength for enemy [Military] units in adjacent [All] tiles", "Consumes [1] [Great Beast Soul]"],
+					"[-25]% Strength for enemy [Military] units in adjacent [All] tiles", "[-33]% Strength <vs [Siege] units> <when defending>"],
+		"attackSound": "elephant"
+	},
+	{
+		"name": "Leviathan",
+		"unitType": "Submarine",
+		"uniqueTo": "Doggerland",
+		"movement": 3,
+		"strength": 150,
+		"cost": 666,
+		"uniques": ["Consumes [1] [Terrible Soul]","Consumes [1] [Whales]","Consumes [2] [Coal]",
+					"Triggers the following global alert: [A terrible beast has been born...]",
+					"Can only attack [Water] tiles", "May enter foreign tiles without open borders",
+					"[-33]% Strength <vs [Submarine] units> <when defending>", "[-33]% Strength <in [Coast] tiles>",
+					"Earn [5]% of killed [All] unit's [Cost] as [Gold]"],
 		"attackSound": "elephant"
 	}
 ]
