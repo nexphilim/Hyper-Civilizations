@@ -249,7 +249,7 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [245,245,220],
+		"outerColor": [184,134,11],
 		"innerColor": [255,215,0],
 		"uniqueName": "Lost City of Gold",
 		"uniques": ["May not annex cities","Cannot build [Settler] units",
