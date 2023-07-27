@@ -225,7 +225,7 @@
 		"name": "El Dorado",
 		"leaderName": "Tilmund",
 		"adjective": ["Dorado"],
-		"startBias": ["Jungle"],
+		"startBias": ["Jungle","Hill"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
@@ -250,9 +250,14 @@
 		"tradeRequest": "",
 
 		"outerColor": [245,245,220],
-		"innerColor": [205,133,63],
-		"uniqueName": "Lost City",
-		"uniques": ["May not annex cities"],
+		"innerColor": [218,165,32],
+		"uniqueName": "Lost City of Gold",
+		"uniques": ["May not annex cities","Cannot build [Settler] units",
+					"Double quantity of [Gold Ore] produced", "Starts in regions of this type receive an extra [Gold Ore]",
+					"[+30 Gold]","[+100]% Golden Age length", "[Gold] cost of purchasing items in cities [200]% <before discovering [Currency]>",
+					"Free [Sacrifice] appears <upon conquering a city>"],
 		"cities": ["El Dorado"]
 	}
+	//Nation which has units with "Deathrattle" like effects?
+	//Nation where underground people (planes) can use tunnels (building airport) to travel between cities
 ]

@@ -116,11 +116,23 @@
 					"Earn [5]% of killed [All] unit's [Cost] as [Gold]"],
 		"attackSound": "elephant"
 	},
+	//El Dorado
 	{
-		"name": "Test Unit",
+		"name": "God-blood",
 		"unitType": "Sword",
-		"uniqueTo": "El Dorado",
-		"movement": 100,
-		"strength": 999
+		"movement": 3,
+		"strength": 40,
+		"cost": 250,
+		"uniques": ["Consumes [2] [Gold Ore]", "Excess Food converted to Production when under construction","Requires at least [2] population",
+					"Can see over obstacles", "All tiles cost 1 movement", "[-33]% Strength <vs [Ranged] units> <when defending>",
+					"[-66]% Strength <vs [Gunpowder] units> <when defending>", "[-33]% Strength <vs [Ranged Gunpowder] units> <when defending>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Sacrifice",
+		"unitType": "Civilian",
+		"movement": 1,
+		"uniques": ["Unbuildable", "Empire enters a [10]-turn Golden Age <by consuming this unit>",
+					"Gain [50] [Culture] <by consuming this unit>", "Gain [50] [Faith] <by consuming this unit>"]
 	}
 ]
