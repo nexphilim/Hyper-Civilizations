@@ -115,7 +115,7 @@
 		"name": "Cockaigne",
 		"leaderName": "George Ellis",
 		"adjective": ["Cockney"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -187,7 +187,6 @@
 		"cities": ["Atlas","Gadeirus","Azaes","Evaemon","Elassipus","Mestor","Ampheres","Autochthon","Diaprepes","Mnesus",
 			"Timaeus","Critias","Hermocrates","Orichalcos","Ironheart","Dartz","Iona","Arnis","Aether","Ventdra"]
 	},
-	//Megafuana boss-units
 	{
 		"name": "Doggerland",
 		"leaderName": "Tilmund",
@@ -221,5 +220,39 @@
 		"uniques": ["Provides [1] [Terrible Soul]", "[+15]% Strength <when attacking> <without [Terrible Soul]>"],
 		"cities": ["Behatland","Fehpland","Ciricland","Deorland","Néatland","Brimland","Earland","Diepeland","Heallland","Cltjdland",
 			"Flintland","Carrland","Clifland","Eotenland","Dolgland","Wammland","Beornland","Clealand","Eglland","Wicceland"]
+	},
+	{
+		"name": "El Dorado",
+		"leaderName": "Tilmund",
+		"adjective": ["Dorado"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": ["Go on.","What be it?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","It will not be so.","It shant be."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["Out with it!","What do you say?","Go on."],
+		"hateNo": "The Will refuses.",
+		"hateYes": "Very well...",
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [245,245,220],
+		"innerColor": [205,133,63],
+		"uniqueName": "Lost City",
+		"uniques": ["May not annex cities"],
+		"cities": ["El Dorado"]
 	}
 ]
