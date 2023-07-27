@@ -253,7 +253,7 @@
 		"innerColor": [255,215,0],
 		"uniqueName": "Lost City of Gold",
 		"uniques": ["May not annex cities","Cannot build [Settler] units",
-					"Double quantity of [Gold Ore] produced", "Starts in regions of this type receive an extra [Gold Ore]",
+					"Double quantity of [Gold Ore] produced", "Provides [3] [Gold Ore]",
 					"[+30 Gold]","[+100]% Golden Age length", "[Gold] cost of purchasing items in cities [200]% <before discovering [Currency]>",
 					"Free [Sacrifice] appears <upon conquering a city>"],
 		"cities": ["El Dorado"]
