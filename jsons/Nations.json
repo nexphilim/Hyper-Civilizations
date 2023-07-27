@@ -214,7 +214,7 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [85,107,47],
+		"outerColor": [245,222,179],
 		"innerColor": [205,133,63],
 		"uniqueName": "Forgotten Worlds",
 		"uniques": ["Provides [1] [Terrible Soul]", "[+15]% Strength <when attacking> <without [Terrible Soul]>"],
