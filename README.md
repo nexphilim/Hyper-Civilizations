@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# Hyper-Civilizations
 
-An example mod for Unciv, that adds one new Civilization.
+Adds multiple civilizations from mythology and folklore. 
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Currently, the added civilizations are: Mourama, Hyperborea, (Vril-yan) Thule, Cockaigne, Atlantis, Doggerland, and El Dorado.
