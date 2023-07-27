@@ -250,7 +250,7 @@
 		"tradeRequest": "",
 
 		"outerColor": [245,245,220],
-		"innerColor": [218,165,32],
+		"innerColor": [255,215,0],
 		"uniqueName": "Lost City of Gold",
 		"uniques": ["May not annex cities","Cannot build [Settler] units",
 					"Double quantity of [Gold Ore] produced", "Starts in regions of this type receive an extra [Gold Ore]",
