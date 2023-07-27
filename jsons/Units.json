@@ -120,6 +120,7 @@
 	{
 		"name": "God-blood",
 		"unitType": "Sword",
+		"uniqueTo": "El Dorado",
 		"movement": 3,
 		"strength": 40,
 		"cost": 250,
@@ -131,6 +132,7 @@
 	{
 		"name": "Sacrifice",
 		"unitType": "Civilian",
+		"uniqueTo": "El Dorado",
 		"movement": 1,
 		"uniques": ["Unbuildable", "Empire enters a [10]-turn Golden Age <by consuming this unit>",
 					"Gain [50] [Culture] <by consuming this unit>", "Gain [50] [Faith] <by consuming this unit>"]
