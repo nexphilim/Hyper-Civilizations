@@ -225,7 +225,7 @@
 		"name": "El Dorado",
 		"leaderName": "Zipa Xipilli",
 		"adjective": ["Dorado"],
-		"startBias": ["Jungle","Hill"],
+		"startBias": ["Jungle"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
