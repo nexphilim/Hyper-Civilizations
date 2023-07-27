@@ -2,6 +2,7 @@
 	{
 		"name": "Terrible Soul",
 		"resourceType": "Strategic",
-		"uniqueTo": "Doggerland"
+		"uniqueTo": "Doggerland",
+		"uniques":["Not shown on world screen"]
 	}
 ]	
