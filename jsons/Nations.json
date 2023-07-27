@@ -214,7 +214,7 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [245,245,220],
+		"outerColor": [85,107,47],
 		"innerColor": [205,133,63],
 		"uniqueName": "Forgotten Worlds",
 		"uniques": ["Provides [1] [Terrible Soul]", "[+15]% Strength <when attacking> <without [Terrible Soul]>"],
@@ -223,7 +223,7 @@
 	},
 	{
 		"name": "El Dorado",
-		"leaderName": "Tilmund",
+		"leaderName": "Zipa Xipilli",
 		"adjective": ["Dorado"],
 		"startBias": ["Jungle","Hill"],
 		"preferredVictoryType": "Cultural",
